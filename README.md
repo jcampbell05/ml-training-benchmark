@@ -4,7 +4,7 @@ An easy to use CreateML project for benchmarking ML for evaluating ML performanc
 Steps:
 
 1. Install Xcode
-2. Download This Project
+2. Download this project (Must be a fresh copy for each Mac)
 3. Open the CreateML file
 4. Click Benchmark on the left
 5. Click Train at the top and wait until it has finished. 
