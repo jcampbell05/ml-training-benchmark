@@ -10,3 +10,11 @@ Steps:
 5. Click the dropbox under testing data, click select files and then click the "testing_images" folder.
 6. Wait for CreateML to finish loading the data.
 7. Click Train at the top and wait until it has finished.
+
+## Results
+
+Feel free to open a PR adding your machine to this list.
+
+Macbook 13" 2020 i5 2.0Ghz 16GB RAM: 53 minutes
+Macbook 16" 2019 i9 1.3GHz 32GB RAM: 55 minutes
+Macbook 14" 2021 M1 Pro 32GB RAM: 23 Minutes
