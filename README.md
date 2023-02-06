@@ -1,4 +1,5 @@
 # ml-training-benchmark
+
 An easy to use CreateML project for benchmarking ML for evaluating ML performance on Macbooks when using Apple's optimised ML tools.
 
 Steps:
@@ -9,7 +10,9 @@ Steps:
 4. Click the dropbox under training data, click select files and then click the "training_images" folder.
 5. Click the dropbox under testing data, click select files and then click the "testing_images" folder.
 6. Wait for CreateML to finish loading the data.
-7. Click Train at the top and wait until it has finished.
+7. Make sure iterations are set to 100 and all augemtnations are enabled.
+8. Click Train at the top and wait until it has finished.
+9. Results will be on the right hand side.
 
 ## Results
 
